@@ -12,18 +12,3 @@ p.a12  {
 #temp{
   background: #1699f4;
 }
-
-/*glow for webkit*/
-
-@media (max-width: 650px) {
-  #container1 {
-    width: 100%;
-  }
-  p.a12{
-    font-size: 10vw;
-  }
- 
-}
-.input-field label {
-  color: #000;
-}
